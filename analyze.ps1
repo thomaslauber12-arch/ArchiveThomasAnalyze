@@ -4,7 +4,7 @@ Write-Host "Made by " -ForegroundColor DarkGray -NoNewline
 Write-Host "ArchiveThomas"
 Write-Host
 
-Write-Host "Enter path to the mods folder: " -NoNewline
+Write-Host "Enter path to the mods folder that you want to search: " -NoNewline
 Write-Host "(press Enter to use default)" -ForegroundColor DarkGray
 $mods = Read-Host "PATH"
 Write-Host
