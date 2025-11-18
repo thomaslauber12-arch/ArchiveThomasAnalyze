@@ -1,7 +1,7 @@
 Clear-Host
 Write-Host "ArchiveThomas Analyzer" -ForegroundColor Yellow
 Write-Host "Made by " -ForegroundColor DarkGray -NoNewline
-Write-Host "HadronCollision"
+Write-Host "ArchiveThomas"
 Write-Host
 
 Write-Host "Enter path to the mods folder: " -NoNewline
